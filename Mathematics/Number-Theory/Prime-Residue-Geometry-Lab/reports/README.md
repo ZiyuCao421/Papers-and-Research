@@ -6,6 +6,6 @@ For each notebook workflow update, copy the [report template](report-template.md
 
 ## 报告索引 / Report Index
 
-暂无阶段报告。 / No reports yet.
+- 2026-11-23 · [初版 Notebook 说明与 V2 后续计划 / V1 Notebook Guide and V2 Follow-up Plan](2026-11-23-v1-notebook-followup/README.md)
 
 [返回课题首页 / Project home](../README.md)
