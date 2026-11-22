@@ -7,6 +7,7 @@ Mathematics → Number Theory · Project scaffold
 | 目录 / Directory | 用途 / Purpose |
 | --- | --- |
 | [`notebooks/`](notebooks/) | 交互式笔记本 / Interactive notebooks |
+| [`reports/`](reports/) | Notebook 工作流的阶段报告与更新说明 / Milestone reports and notebook workflow updates |
 | [`experiments/`](experiments/) | 实验方案及记录 / Experiment plans and logs |
 | [`figures/`](figures/) | 图表 / Figures |
 | [`references/`](references/) | 文献与引用 / Sources and citations |
